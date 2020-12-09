@@ -3,6 +3,7 @@ package tree;
 import tree.MyNode;
 
 /**
+ * some change
  * This is a binary search tree. The tree holds integer valued nodes.
  *
  * @author Torbjorn Ekman
