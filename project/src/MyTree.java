@@ -7,7 +7,7 @@ import tree.MyNode;
 <<<<<<< HEAD
  * some (not shared) change
 =======
- * some other change
+ * some other change asdasdasd
 >>>>>>> 1cf2ed1... some change again
  * This is a binary search tree. The tree holds integer valued nodes.
  *
