@@ -1,0 +1,8 @@
+[alias]
+   # type `git l` to see a pretty graph of all branches
+   l = log --graph --format=tformat:'%C(bold blue)%h %C(dim green)%ad%C(reset) %C(white)%s %C(dim white)- %an%C(auto)%d' --date=format:%Y-%m-%d --branches --remotes --tags
+   # type `git ll` to see a pretty graph of the current branch
+   ll = log --graph --format=tformat:'%C(bold blue)%h %C(dim green)%ad%C(reset) %C(white)%s %C(dim white)- %an%C(auto)%d' --date=format:%Y-%m-%d
+   cp = cherry-pick
+   co = checkout
+   s = status
