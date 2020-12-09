@@ -1,6 +1,11 @@
 package tree;
 
 /**
+<<<<<<< HEAD
+=======
+ * lalalal
+ * asdasdasd
+>>>>>>> 34fce543aa8baabe3ded3b863408ee28d97444e5
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * @author Torbjorn Ekman
