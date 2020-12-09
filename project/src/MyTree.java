@@ -3,6 +3,7 @@ package tree;
 import tree.MyNode;
 
 /**
+ * asdasdasd
  * This is a binary search tree. The tree holds integer valued nodes.
  *
  * @author Torbjorn Ekman
@@ -78,4 +79,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
