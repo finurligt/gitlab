@@ -4,11 +4,9 @@ import tree.MyNode;
 
 /**
  * some change
-<<<<<<< HEAD
- * some (not shared) change
+some combined chnage
 =======
- * some other change asdasdasd
->>>>>>> 1cf2ed1... some change again
+>>>>>>> branch2
  * This is a binary search tree. The tree holds integer valued nodes.
  *
  * @author Torbjorn Ekman
